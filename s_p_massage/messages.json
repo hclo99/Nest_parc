@@ -1,10 +1,1 @@
-{
-    "12":{
-        "content":"hi there!",
-        "id":12
-    },
-    "13":{
-        "content":"hi there!",
-        "id":13
-    }
-}
+{"12":{"content":"hi there!","id":12},"13":{"content":"hi there!","id":13},"273":{"id":273,"content":"second message"}}
