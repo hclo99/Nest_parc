@@ -1,4 +1,4 @@
-# Nest_prac
+# Nest_parc
 스튜디오 준비 (ademy 강의 연습)
 
 1. basic : 기본 틀 공부
